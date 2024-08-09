@@ -55,6 +55,3 @@ Duration: July 2023 - September 2023
 
 The Weather App is a responsive, user-friendly application that provides real-time weather information for cities around the world. Built using core web technologies, the app features dynamic visuals that enhance the user experience by reflecting current weather conditions. The use of a third-party weather API ensures accurate and up-to-date information, while the responsive design guarantees a seamless experience across all devices.
 
----
-
-This `README.md` file outlines the key aspects of the Weather App project, including its objectives, activities, and the technologies used, making it clear and informative for any future users or developers.
