@@ -1,7 +1,3 @@
-Here’s a `README.md` file for a Weather App project:
-
----
-
 # Weather App
 
 # Project Overview
